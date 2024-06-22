@@ -2,7 +2,7 @@
     "version": 2,
     "functions": {
         "api/index.php": {
-            "runtime": "vercel-php@0.6.0"
+             "runtime": "vercel-php@0.7.1"
         }
     },
     "routes": [
@@ -17,7 +17,7 @@
         "APP_ENV": "production",
         "APP_KEY":"base64:V0Svlc+DPnj1x3zVQ/r2p4AAJ5ksIvCtEYeDfFoaa7w=",
         "APP_DEBUG": "false",
-        "APP_URL": "PLACEHOLDER_URL",
+        "APP_URL": "https://laravel-on-vercel-git-master-mthrees-projects.vercel.app/",
         "VERCEL_DEMO_MODE": "true",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
